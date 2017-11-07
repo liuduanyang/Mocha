@@ -6,4 +6,3 @@ var y=0;
 var z=add(x,y);
 
 console.log('x+y='+z);
-//12.30
