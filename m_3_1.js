@@ -11,8 +11,9 @@
 按照calc.test.js文件的步骤创建完测试脚本后
 运行测试脚本
 回到mocha-demo文件夹下
-运行命令：必须linux下？
+运行命令：
 命令行：node_modules/mocha/bin/mocha test/calc.test.js
+简写命令见 m_4_1.js m_5_1.js
 */
 
 //chai断言库中的expect断言格式中 expect(xxx).to.be.equal(x) 用来判断是否相等
